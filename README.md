@@ -8,6 +8,6 @@ Welcome! This repository contains my complete collection of laboratory exercises
 * *Name:* BENJ FEDERIC C. DE LEON
 * *Program:* Bachelor of Science in Computer Engineering (BSCpE)
 * *Institution:* [Technological Institute of the Philippines – Quezon City](https://tip.edu.ph)
-* *Year Level:* 2nd Year Standing
+* *Year Level:* 2nd Year 
 
 ---
