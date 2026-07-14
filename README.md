@@ -1,6 +1,6 @@
 # 📊 Visualizations and Data Analysis: Lab & Activity Compilation
 
-Welcome! This repository contains my complete collection of laboratory exercises, practical assignments, and data activities aligned with the *Technological Institute of the Philippines - Quezon City ([T.I.P. QC](https://tip.edu.ph))* curriculum for 2nd-year Computer Engineering students. 
+Welcome! This repository contains my complete collection of laboratory activities, practical assignments, and C++ programs aligned with the *Technological Institute of the Philippines - Quezon City ([T.I.P. QC](https://tip.edu.ph))* curriculum for 2nd-year Computer Engineering students. 
 
 ---
 
