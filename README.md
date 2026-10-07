@@ -1,6 +1,6 @@
 # CPE 031: Visualization and Data Analysis
 
-Welcome to my official coursework repository for **CPE 031 - Visualization and Data Analysis** (Section CPE21S1)[cite: 6]. This repository serves as a centralized compilation of all laboratory activities, seatworks, quizzes, and course projects completed throughout the term.
+Welcome to my official coursework repository for **CPE 031 - Visualization and Data Analysis** (Section CPE21S1). This repository serves as a centralized compilation of all laboratory activities, seatworks, quizzes, and course projects completed throughout the term.
 
 ---
 
