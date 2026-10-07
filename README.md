@@ -7,6 +7,7 @@ Welcome to my official coursework repository for **CPE 031 - Visualization and D
 ## 👨‍💻 Student Information
 
 * **Student Name:** Benj Federic C. De Leon
+* **Institution:** Technological Institute of the Philippines
 * **Year & Program:** 2nd Year, Bachelor of Science in Computer Engineering (BSCpE)
 * **GitHub Username:** [@qbfdeleon-code](https://github.com/qbfdeleon-code)
 * **Course Code:** CPE 031
