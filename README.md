@@ -24,9 +24,9 @@ This repository serves as a centralized collection of laboratory activities and 
 ```text
 CPE-031-CPE21S1-Visualization_and_Data_Analysis-De_Leon/
 │
-├── Laboratory Activities/    # Laboratory exercises and practical work
-│
 ├── colab-notebooks/          # Google Colab notebooks and data analysis
+│
+├── laboratory activities/    # Laboratory exercises and practical work
 │
 └── README.md                 # Repository documentation
 ```
